@@ -12,6 +12,9 @@ Includes:
   - Precision
   - F1 Score
 ## Dependencies
+### Java Dependencies
+
+### Python Dependencies
 
 ## Linear Regression Model
 
