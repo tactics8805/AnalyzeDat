@@ -30,7 +30,7 @@ Includes:
 ### F1 Score Algorithm
 The harmonic mean of precision and recall. Mathematically given by:
 
-\[F1 = 2 * \frac{precision * recall}{precision + recall} = \frac{2TP}{2TP + FP + FN}]\
+$[F1 = 2 * \frac{precision * recall}{precision + recall} = \frac{2TP}{2TP + FP + FN}]$
 
 When precision and recall are close in value, F1 will be close to their value. When precision and recall are far apart, F1 will be similar to whichever metric is worse.
 
